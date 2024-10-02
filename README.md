@@ -28,8 +28,8 @@ This dataset is compatible with:
 Download
 ========
 
-[BVH Data](https://theorangeduck.com/media/uploads/Geno/lafan1-resolved/bvh.zip)
-[FBX Data](https://theorangeduck.com/media/uploads/Geno/lafan1-resolved/fbx.zip)
+* [BVH Data](https://theorangeduck.com/media/uploads/Geno/lafan1-resolved/bvh.zip)
+* [FBX Data](https://theorangeduck.com/media/uploads/Geno/lafan1-resolved/fbx.zip)
 
 License
 =======
