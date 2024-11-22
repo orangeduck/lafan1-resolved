@@ -233,6 +233,7 @@ for file in filenames:
     find_bones(FBFindModelByLabelName('Hips'), -1)
     parents = np.asarray(parents)
     
+    control.SetTransportFps(FBTimeMode.kFBTimeMode60Frames)
     start_frame = system.CurrentTake.LocalTimeSpan.GetStart().GetFrame()
     stop_frame = system.CurrentTake.LocalTimeSpan.GetStop().GetFrame() + 1
     
