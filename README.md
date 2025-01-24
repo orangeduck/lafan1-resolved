@@ -30,6 +30,7 @@ This dataset is compatible with:
 
 * [zeroeggs-retarget](https://github.com/orangeduck/zeroeggs-retarget)
 * [motorica-retarget](https://github.com/orangeduck/motorica-retarget)
+* [100style-retarget](https://github.com/orangeduck/100style-retarget)
 
 For an example raylib application that can visualize this data on a skinned character check out the [GenoView](https://github.com/orangeduck/GenoView) repo.
 
