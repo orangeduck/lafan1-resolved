@@ -32,7 +32,7 @@ This dataset is compatible with:
 * [motorica-retarget](https://github.com/orangeduck/motorica-retarget)
 * [100style-retarget](https://github.com/orangeduck/100style-retarget)
 
-For an example raylib application that can visualize this data on a skinned character check out the [GenoView](https://github.com/orangeduck/GenoView) repo.
+For an example raylib application that can visualize this data on a skinned character check out the [GenoView](https://github.com/orangeduck/GenoView) or [GenoViewPython](https://github.com/orangeduck/GenoViewPython/) repo.
 
 Download
 ========
@@ -64,3 +64,4 @@ number    = {4},
 year      = {2020}
 }
 ```
+
