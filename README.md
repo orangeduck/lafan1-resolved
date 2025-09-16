@@ -31,6 +31,7 @@ This dataset is compatible with:
 * [zeroeggs-retarget](https://github.com/orangeduck/zeroeggs-retarget)
 * [motorica-retarget](https://github.com/orangeduck/motorica-retarget)
 * [100style-retarget](https://github.com/orangeduck/100style-retarget)
+* [interact-retarget](https://github.com/orangeduck/interact-retarget)
 
 For an example raylib application that can visualize this data on a skinned character check out the [GenoView](https://github.com/orangeduck/GenoView) or [GenoViewPython](https://github.com/orangeduck/GenoViewPython/) repo.
 
@@ -64,4 +65,5 @@ number    = {4},
 year      = {2020}
 }
 ```
+
 
